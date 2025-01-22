@@ -27,7 +27,7 @@ This series uses the following technologies:
 ##  🖼️ **Assignments**
 
 ### **1. Assignment 1**
-- **Description**: This assignment includes a responsive table with colspan and rowspan examples and a user-friendly form.
+- **Description**: This assignment includes a table with colspan and rowspan examples and a user-friendly form.
 - **Files**:
   - `Table.html`: Contains the code for a detailed table with proper styling and merged cells.
   - `form.html`: A form demonstrating HTML form elements.
@@ -41,5 +41,5 @@ This series uses the following technologies:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amnakhalid625/icodeguru.git
-   cd icodegure
+   git clone https://github.com/amnakhalid625/MERN-icodeguru-.git
+
